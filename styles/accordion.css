@@ -5,3 +5,10 @@ details {
     background: white;
     box-shadow: 4px;
 }
+summary {
+    /* cursor: poiner; */
+    cursor:crosshair
+}
+
+
+
