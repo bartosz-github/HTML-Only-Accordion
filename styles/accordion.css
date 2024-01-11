@@ -6,8 +6,8 @@ details {
     box-shadow: 4px 4px 3px rgba(0,0,0,0.15);
 }
 summary {
-    /* cursor: poiner; */
-    cursor:crosshair
+    cursor: pointer;
+    /* cursor:crosshair  */
 }
 
 summary h1 {
