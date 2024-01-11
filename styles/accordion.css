@@ -1,3 +1,7 @@
+body {
+    background-color: slategrey;
+}
+
 details {
     width: 250px;
     padding: 1rem;
